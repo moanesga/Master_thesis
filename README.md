@@ -8,3 +8,4 @@ The Employees DB Case intends implementation of methology proposed using a publi
 1. License and more details of Employees DB https://github.com/datacharmer/test_db
 2. Validation of Employess DB structure.PNG in phpMyAdmin
 3. Jupyter Notebooks publication organized according CRISP-DM (Cross-industry standard process for data mining)
+4. Information of Automobile Data Set https://archive.ics.uci.edu/ml/datasets/automobile
