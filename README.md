@@ -1,5 +1,4 @@
-# Master_thesis
-Headcount Predictive Modelling of a Business Line
+# Headcount Predictive Modelling of a Business Line
 
 Demand and supply headcount modeling applies concepts from operations in manufacturing industry called S&OP "Sales and Operations planning", focused on employees as the bottle neck resource. Human resource maturity models integrate predictive modeling as well as data analysis and visualization activities to synchronize recruiting, development and optimization processes.
 
